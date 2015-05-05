@@ -1,1 +1,1 @@
-# Homework-time-management-system-server
+# Homework time management system server
